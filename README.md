@@ -5,7 +5,7 @@ The central idea is that the player interacts with their own 3D avatar — autom
 
 
 ![Main menu](https://github.com/RuslanWar/Avatar_Clicker/blob/main/Screenshots/1.png)
-![](https://github.com/RuslanWar/Avatar_Clicker/blob/main/Screenshots/1.png)
+![](https://github.com/RuslanWar/Avatar_Clicker/blob/main/Screenshots/2.png)
 ![](https://github.com/RuslanWar/Avatar_Clicker/blob/main/Screenshots/3.png)
 ![](https://github.com/RuslanWar/Avatar_Clicker/blob/main/Screenshots/4.png)
 ![](https://github.com/RuslanWar/Avatar_Clicker/blob/main/Screenshots/5.png)
