@@ -1,5 +1,7 @@
 Hybrid Clicker + Casual Prototype (Unity + Ready Player Me SDK)
+
 **Status:** In active development (prototype stage)
+
 Avatar_Clicker is a prototype of a hybrid mobile game that combines classic clicker mechanics with light casual gameplay elements.  
 The central idea is that the player interacts with their own 3D avatar — automatically generated through **Ready Player Me** — which becomes an active part of all gameplay loops.
 
